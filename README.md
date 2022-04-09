@@ -50,7 +50,6 @@ df3.boxplot()
 ```
 
 ## OUTPUT:
-
 ### INITIAL DATA:
 ![Output](op1.png)
 
